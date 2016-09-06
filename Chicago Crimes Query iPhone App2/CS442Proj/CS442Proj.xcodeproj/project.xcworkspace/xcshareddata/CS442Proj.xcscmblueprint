@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3494410D6481090562F2AF61826B7A758B981677",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3494410D6481090562F2AF61826B7A758B981677" : 0,
+    "6C793A6D2834C9AE5811FECA2B2A1F449ACC1E9B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1B4067B1-022F-438A-A261-EE1F0158F735",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3494410D6481090562F2AF61826B7A758B981677" : "cs442_proj\/",
+    "6C793A6D2834C9AE5811FECA2B2A1F449ACC1E9B" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CS442Proj",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CS442Proj\/CS442Proj.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/jjiratra\/cs442_proj.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3494410D6481090562F2AF61826B7A758B981677"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/preawwy\/homework-iit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6C793A6D2834C9AE5811FECA2B2A1F449ACC1E9B"
+    }
+  ]
+}
