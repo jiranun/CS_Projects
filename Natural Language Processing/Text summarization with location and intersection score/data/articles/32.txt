@@ -1,0 +1,9 @@
+While Project Loon found an initial home in Sri Lanka, Facebook has its own update for its plan to provide wireless internet from the skies.
+
+Mark Zuckerberg announced the completion of Aquila, Facebook’s first full-scale aircraft designed to deliver wireless internet with lasers, as a part of their project with Internetorg. Aquila is solar-powered, weighs “less than a car,” and has the wingspan of a Boeing 737, according to the Facebook post. Mock-ups we’ve seen in the past make it look like a giant boomerang, but the full design resembles more of a slimmed down B-2 stealth bomber. "Aquila" is also a constellation, named after the bird that carried Zeus' thunderbolts to battle in Greco-Roman mythology.
+
+Facebook has teased the technology they’re using to send the signal, long-range lasers, but today Zuckerberg gave some solid statistics. Aquila will be able to send data at 10 gigabits per second at a distance of more than 10 miles. The internet-providing drone is supposedly precise, too, being able to connect with “a point the size of a dime” at that 10-mile range. In an accompanying video, engineers say that the drone will fly from 60,000 to 90,000 feet above the Earth and stay in the sky 3 months at a time, comparable to Google’s Project Loon balloons. NASA has used lasers to beam information to the moon, but that wasn't from a mobile, solar-powered drone circling remote regions.
+
+“Using aircraft to connect communities using lasers might seem like science fiction. But science fiction is often just science before its time,” Zuckerberg writes.
+
+Facebook will be testing Aquila over the coming months, and hopefully we can see it in action soon.

@@ -1,0 +1,26 @@
+Facebook's new Terragraph network uses millimeter waves to provide internet in high-density locations.
+
+While yesterday Mark Zuckerberg announced the 10-year moonshot ideas for Facebook at the company’s F8 developer conference, he also hinted at some new technologies that are just around the corner. Since the launching of its connectivity arm Internet.org in 2013, Facebook has pushed hard on it’s mission to “connect the world,” taking on the task of building the world’s internet infrastructure despite nobody asking it to do so. The plan relies on hardware, like the Aquila drone, and software, like Free Basics, Facebook’s app that allowed free access to a select few websites and web tools for entrepreneurs.
+
+Facebook’s plan has been met with resistance in the some of the countries it sees the most growth potential within, specifically India. In February, the country blocked access to Free Basics on the basis that it gave an unfair advantage to those sites Facebook had selected. This idea is called net neutrality, and is hotly debated both in the United States and across the word.
+
+But now, the social media giant is continuing its push on the hardware side of its plan, by announcing two new products called Terragraph and Project Aries. These are two different technologies that serve the similar goal of providing internet access; Terragraph uses extremely high radio frequencies, while ARIES focuses on using networks more efficiently to support more devices.
+
+Provides high-power networks over short distances.
+
+While the Aquila project, which we first covered last year, is meant to bring internet to those in remote locations, Terragraph is Facebook’s solution to internet in larger cities. The system uses 60Ghz radio frequency, called extremely high frequency in the biz, which provides high-power networks over short distances.
+
+The transmitted waves are very long, ranging from one to ten millimeters, and specifically get distorted by oxygen molecules. Rain is also a major concern, as much of the waves are absorbed by the water in the air. The FCC recommends millimeter wave technology to operate at a maximum distance of just over a mile for it to actually work.
+
+To overcome this hurdle, Facebook’s idea is to place each Terragraph transmitter about 250 meters (820 feet) apart. Four transmitters are each pointed in different directions to cover different quadrants. This lets the network scale as large as the city requires. The company has been testing this tech in Menlo Park campus, and will start testing San Jose later this year.
+
+Sending information directly from one computer to in a peer-to-peer mode, engineers were able to send data at more than 1 gigabit per second each direction, with a total throughput of 2.1 gigabits per second. For those who are only casual networking enthusiasts, that’s a transfer rate of 125 MB/s. (There’s a confusing difference between Gbps and GB/s.) After there’s a network, the next challenge is using the network more efficiently.
+
+Facebook&#039;s Project ARIES uses 96 antennae to boost wireless efficiency.
+Facebook's Project ARIES uses 96 antennae to boost wireless efficiency.
+
+That where Project ARIES comes in. (ARIES stands for Antenna Radio Integration for Efficiency in Spectrum, and furthers the company's penchant for naming products after Greek mythological icons.) Facebook says this is much more a proof-of-concept than anything that has come to fruition, but the idea is to improve how many bits are sent over the same frequencies.
+
+Facebook has built a test platform with 96 antennae, that it claims operates 10 times more efficient than traditional networks, which means more people are able to be served data, and faster. This probably is far from seeing the light of day, but would be a major improvement to both emerging and developed markets.
+
+Facebook will be contributing the Terragraph designs to its own Telecom Infra Project, their initiative to upgrade telecommunications infrastructure. There are no specific announcements from Facebook about Terragraph actually being deployed in the world, but the company will “continue to invest in the program.”

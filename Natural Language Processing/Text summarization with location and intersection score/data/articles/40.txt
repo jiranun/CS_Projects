@@ -1,0 +1,15 @@
+What if a pacemaker could send data about your health back to your doctor even faster?
+
+Devices designed to work inside the body, like pacemakers or camera capsules, send data back out of the body, so that doctors can monitor a patient’s health. But that signal, which is transmitted via radio waves, is weak and slow, operating at a maximum of 50 kilobytes per second (for reference, the recommended download speed to properly watch Netflix is 1.5 megabits, or about 188 kilobytes). The FCC requires the devices to have low power, "which inherently limits the communication rates of these devices ... to a maximum of 50 kb/s," according to a new paper.
+
+A team of researchers from the University of Illinois at Urbana Champaign has found a way to increase the bandwidth for these electronic devices--a plan they call MEAT-COMMS. The researchers published a study last month in ArXiv, which was covered today in New Scientist.
+
+Instead of using radio waves, the researchers created devices that transmit digital data via ultrasound. In past studies, many of which were conducted underwater, researchers found that ultrasound allowed the signal to come through more clearly (with fewer losses) and over greater distances. Plus, it’s been used for decades as a way to take images of the body, so it’s known to be safe and effective.
+
+In the study, the researchers tested the speed and fidelity of wireless ultrasound communication between a transducer, which converts data into ultrasonic vibrations, and a hydrophone, a microphone that picks up sound waves underwater. They put the two devices on either side of a piece of meat (a plastic-wrapped beef liver in one trial, a pork loin in another).
+
+They found that the maximum transmission speed was about 30 megabits per second, enough bandwidth to watch Netflix in Ultra HD quality. And while you probably wouldn’t use any of these devices to stream the latest movies inside your body (let’s be honest), that’s a big deal for researchers who want to use devices to gather data like video and send it back to their computers for analysis.
+
+There could be a downside, though. Anything connected to the internet is vulnerable to hacking, and medical devices are no exception—in fact, last year some experts predicted that hacked medical devices would provide the biggest cybersecurity risk this year. If devices are going to send data via ultrasound, researchers might just have to make sure they encrypt that data. Luckily, a few years ago researchers figured out how to do that. It's safe to figure the bandwidth will still be fast enough if all the data is also encrypted.
+
+The researchers next want to test how these devices transmit data through multiple layers of organs and different kinds of tissues. That's a preliminary step before testing them in live animals and eventually humans.

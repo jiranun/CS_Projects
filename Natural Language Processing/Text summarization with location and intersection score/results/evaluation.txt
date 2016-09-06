@@ -1,0 +1,1623 @@
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.0, 1.0, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.10000000000000001) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.20000000000000001) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.30000000000000004) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.40000000000000002) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.5) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.60000000000000009) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.70000000000000007) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.80000000000000004) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 0.90000000000000002) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.171514963794
+Fold : 2 , accuracy = 0.187953296703
+Fold : 3 , accuracy = 0.178176406926
+Fold : 4 , accuracy = 0.100304834055
+Fold : 5 , accuracy = 0.219081649345
+param =  (0.0, 1.0, 1.0) , total_acc =  0.171406230165
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.050000000000000003, 0.94999999999999996, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.442445054945
+Fold : 2 , accuracy = 0.368318070818
+Fold : 3 , accuracy = 0.322548701299
+Fold : 4 , accuracy = 0.344350649351
+Fold : 5 , accuracy = 0.434533302954
+param =  (0.050000000000000003, 0.94999999999999996, 0.10000000000000001) , total_acc =  0.382439155873
+
+Fold : 1 , accuracy = 0.411918359418
+Fold : 2 , accuracy = 0.375262515263
+Fold : 3 , accuracy = 0.333044733045
+Fold : 4 , accuracy = 0.3181998557
+Fold : 5 , accuracy = 0.428237259816
+param =  (0.050000000000000003, 0.94999999999999996, 0.20000000000000001) , total_acc =  0.373332544648
+
+Fold : 1 , accuracy = 0.376554001554
+Fold : 2 , accuracy = 0.378952991453
+Fold : 3 , accuracy = 0.328084415584
+Fold : 4 , accuracy = 0.292316017316
+Fold : 5 , accuracy = 0.4223893066
+param =  (0.050000000000000003, 0.94999999999999996, 0.30000000000000004) , total_acc =  0.359659346501
+
+Fold : 1 , accuracy = 0.324652292152
+Fold : 2 , accuracy = 0.355044261294
+Fold : 3 , accuracy = 0.324314574315
+Fold : 4 , accuracy = 0.279915223665
+Fold : 5 , accuracy = 0.398370927318
+param =  (0.050000000000000003, 0.94999999999999996, 0.40000000000000002) , total_acc =  0.336459455749
+
+Fold : 1 , accuracy = 0.295431512932
+Fold : 2 , accuracy = 0.321527777778
+Fold : 3 , accuracy = 0.314188311688
+Fold : 4 , accuracy = 0.253472222222
+Fold : 5 , accuracy = 0.398370927318
+param =  (0.050000000000000003, 0.94999999999999996, 0.5) , total_acc =  0.316598150388
+
+Fold : 1 , accuracy = 0.297351259851
+Fold : 2 , accuracy = 0.300793650794
+Fold : 3 , accuracy = 0.302283549784
+Fold : 4 , accuracy = 0.223715728716
+Fold : 5 , accuracy = 0.378822055138
+param =  (0.050000000000000003, 0.94999999999999996, 0.60000000000000009) , total_acc =  0.300593248856
+
+Fold : 1 , accuracy = 0.274955877456
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.273511904762
+Fold : 4 , accuracy = 0.211796536797
+Fold : 5 , accuracy = 0.356998556999
+param =  (0.050000000000000003, 0.94999999999999996, 0.70000000000000007) , total_acc =  0.282222416472
+
+Fold : 1 , accuracy = 0.231538600289
+Fold : 2 , accuracy = 0.286071428571
+Fold : 3 , accuracy = 0.265376984127
+Fold : 4 , accuracy = 0.20443001443
+Fold : 5 , accuracy = 0.325909470646
+param =  (0.050000000000000003, 0.94999999999999996, 0.80000000000000004) , total_acc =  0.262665299613
+
+Fold : 1 , accuracy = 0.216354617605
+Fold : 2 , accuracy = 0.276825396825
+Fold : 3 , accuracy = 0.242308802309
+Fold : 4 , accuracy = 0.194066766567
+Fold : 5 , accuracy = 0.294246981089
+param =  (0.050000000000000003, 0.94999999999999996, 0.90000000000000002) , total_acc =  0.244760512879
+
+Fold : 1 , accuracy = 0.209990981241
+Fold : 2 , accuracy = 0.283174603175
+Fold : 3 , accuracy = 0.244292929293
+Fold : 4 , accuracy = 0.191566766567
+Fold : 5 , accuracy = 0.271158958001
+param =  (0.050000000000000003, 0.94999999999999996, 1.0) , total_acc =  0.240036847655
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.10000000000000001, 0.90000000000000002, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.478310855811
+Fold : 2 , accuracy = 0.385381562882
+Fold : 3 , accuracy = 0.350297619048
+Fold : 4 , accuracy = 0.325600649351
+Fold : 5 , accuracy = 0.431161236424
+param =  (0.10000000000000001, 0.90000000000000002, 0.10000000000000001) , total_acc =  0.394150384703
+
+Fold : 1 , accuracy = 0.453862248862
+Fold : 2 , accuracy = 0.389072039072
+Fold : 3 , accuracy = 0.341865079365
+Fold : 4 , accuracy = 0.306547619048
+Fold : 5 , accuracy = 0.4223893066
+param =  (0.10000000000000001, 0.90000000000000002, 0.20000000000000001) , total_acc =  0.382747258589
+
+Fold : 1 , accuracy = 0.402552725053
+Fold : 2 , accuracy = 0.383913308913
+Fold : 3 , accuracy = 0.346428571429
+Fold : 4 , accuracy = 0.270371572872
+Fold : 5 , accuracy = 0.431704260652
+param =  (0.10000000000000001, 0.90000000000000002, 0.30000000000000004) , total_acc =  0.366994087784
+
+Fold : 1 , accuracy = 0.35706016206
+Fold : 2 , accuracy = 0.359027777778
+Fold : 3 , accuracy = 0.343264790765
+Fold : 4 , accuracy = 0.270371572872
+Fold : 5 , accuracy = 0.426065162907
+param =  (0.10000000000000001, 0.90000000000000002, 0.40000000000000002) , total_acc =  0.351157893276
+
+Fold : 1 , accuracy = 0.317625985126
+Fold : 2 , accuracy = 0.359027777778
+Fold : 3 , accuracy = 0.329375901876
+Fold : 4 , accuracy = 0.23113997114
+Fold : 5 , accuracy = 0.403842940685
+param =  (0.10000000000000001, 0.90000000000000002, 0.5) , total_acc =  0.328202515321
+
+Fold : 1 , accuracy = 0.306011211011
+Fold : 2 , accuracy = 0.344543650794
+Fold : 3 , accuracy = 0.307045454545
+Fold : 4 , accuracy = 0.234181096681
+Fold : 5 , accuracy = 0.397064631275
+param =  (0.10000000000000001, 0.90000000000000002, 0.60000000000000009) , total_acc =  0.317769208861
+
+Fold : 1 , accuracy = 0.27714979465
+Fold : 2 , accuracy = 0.320436507937
+Fold : 3 , accuracy = 0.30148989899
+Fold : 4 , accuracy = 0.220707070707
+Fold : 5 , accuracy = 0.384533302954
+param =  (0.10000000000000001, 0.90000000000000002, 0.70000000000000007) , total_acc =  0.300863315048
+
+Fold : 1 , accuracy = 0.253817293817
+Fold : 2 , accuracy = 0.311507936508
+Fold : 3 , accuracy = 0.293849206349
+Fold : 4 , accuracy = 0.214727633478
+Fold : 5 , accuracy = 0.362083238399
+param =  (0.10000000000000001, 0.90000000000000002, 0.80000000000000004) , total_acc =  0.28719706171
+
+Fold : 1 , accuracy = 0.2338997114
+Fold : 2 , accuracy = 0.299007936508
+Fold : 3 , accuracy = 0.252400793651
+Fold : 4 , accuracy = 0.210407647908
+Fold : 5 , accuracy = 0.340779980254
+param =  (0.10000000000000001, 0.90000000000000002, 0.90000000000000002) , total_acc =  0.267299213944
+
+Fold : 1 , accuracy = 0.217745310245
+Fold : 2 , accuracy = 0.289444444444
+Fold : 3 , accuracy = 0.251237373737
+Fold : 4 , accuracy = 0.20344030969
+Fold : 5 , accuracy = 0.304480899218
+param =  (0.10000000000000001, 0.90000000000000002, 1.0) , total_acc =  0.253269667467
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.15000000000000002, 0.84999999999999998, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.468187645688
+Fold : 2 , accuracy = 0.394841269841
+Fold : 3 , accuracy = 0.335615079365
+Fold : 4 , accuracy = 0.309399350649
+Fold : 5 , accuracy = 0.431161236424
+param =  (0.15000000000000002, 0.84999999999999998, 0.10000000000000001) , total_acc =  0.387840916394
+
+Fold : 1 , accuracy = 0.471066433566
+Fold : 2 , accuracy = 0.389072039072
+Fold : 3 , accuracy = 0.341865079365
+Fold : 4 , accuracy = 0.292316017316
+Fold : 5 , accuracy = 0.412949039265
+param =  (0.15000000000000002, 0.84999999999999998, 0.20000000000000001) , total_acc =  0.381453721717
+
+Fold : 1 , accuracy = 0.43537018537
+Fold : 2 , accuracy = 0.382822039072
+Fold : 3 , accuracy = 0.315873015873
+Fold : 4 , accuracy = 0.279702380952
+Fold : 5 , accuracy = 0.425438596491
+param =  (0.15000000000000002, 0.84999999999999998, 0.30000000000000004) , total_acc =  0.367841243552
+
+Fold : 1 , accuracy = 0.373064435564
+Fold : 2 , accuracy = 0.353472222222
+Fold : 3 , accuracy = 0.329069264069
+Fold : 4 , accuracy = 0.262137445887
+Fold : 5 , accuracy = 0.416708437761
+param =  (0.15000000000000002, 0.84999999999999998, 0.40000000000000002) , total_acc =  0.346890361101
+
+Fold : 1 , accuracy = 0.319060661561
+Fold : 2 , accuracy = 0.359027777778
+Fold : 3 , accuracy = 0.32887987013
+Fold : 4 , accuracy = 0.242097763348
+Fold : 5 , accuracy = 0.396187438293
+param =  (0.15000000000000002, 0.84999999999999998, 0.5) , total_acc =  0.329050702222
+
+Fold : 1 , accuracy = 0.296533189033
+Fold : 2 , accuracy = 0.344543650794
+Fold : 3 , accuracy = 0.322431457431
+Fold : 4 , accuracy = 0.238724747475
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.15000000000000002, 0.84999999999999998, 0.60000000000000009) , total_acc =  0.319851180983
+
+Fold : 1 , accuracy = 0.282995337995
+Fold : 2 , accuracy = 0.335615079365
+Fold : 3 , accuracy = 0.30148989899
+Fold : 4 , accuracy = 0.227525252525
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.15000000000000002, 0.84999999999999998, 0.70000000000000007) , total_acc =  0.308929685811
+
+Fold : 1 , accuracy = 0.256331723832
+Fold : 2 , accuracy = 0.320436507937
+Fold : 3 , accuracy = 0.306944444444
+Fold : 4 , accuracy = 0.216414141414
+Fold : 5 , accuracy = 0.369393179919
+param =  (0.15000000000000002, 0.84999999999999998, 0.80000000000000004) , total_acc =  0.293903999509
+
+Fold : 1 , accuracy = 0.257587135087
+Fold : 2 , accuracy = 0.300992063492
+Fold : 3 , accuracy = 0.267361111111
+Fold : 4 , accuracy = 0.225005411255
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.15000000000000002, 0.84999999999999998, 0.90000000000000002) , total_acc =  0.278971706656
+
+Fold : 1 , accuracy = 0.226235569986
+Fold : 2 , accuracy = 0.307936507937
+Fold : 3 , accuracy = 0.218650793651
+Fold : 4 , accuracy = 0.194038600289
+Fold : 5 , accuracy = 0.304594820384
+param =  (0.15000000000000002, 0.84999999999999998, 1.0) , total_acc =  0.250291258449
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.20000000000000001, 0.80000000000000004, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.468187645688
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.335615079365
+Fold : 4 , accuracy = 0.309399350649
+Fold : 5 , accuracy = 0.412322472849
+param =  (0.20000000000000001, 0.80000000000000004, 0.10000000000000001) , total_acc =  0.38883506844
+
+Fold : 1 , accuracy = 0.462137862138
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.293262987013
+Fold : 5 , accuracy = 0.425438596491
+param =  (0.20000000000000001, 0.80000000000000004, 0.20000000000000001) , total_acc =  0.382080587541
+
+Fold : 1 , accuracy = 0.420528915529
+Fold : 2 , accuracy = 0.365361721612
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.279702380952
+Fold : 5 , accuracy = 0.425438596491
+param =  (0.20000000000000001, 0.80000000000000004, 0.30000000000000004) , total_acc =  0.36276981498
+
+Fold : 1 , accuracy = 0.362624875125
+Fold : 2 , accuracy = 0.353472222222
+Fold : 3 , accuracy = 0.317164502165
+Fold : 4 , accuracy = 0.270470779221
+Fold : 5 , accuracy = 0.40730994152
+param =  (0.20000000000000001, 0.80000000000000004, 0.40000000000000002) , total_acc =  0.342208464051
+
+Fold : 1 , accuracy = 0.310839160839
+Fold : 2 , accuracy = 0.353472222222
+Fold : 3 , accuracy = 0.301291486291
+Fold : 4 , accuracy = 0.242097763348
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.20000000000000001, 0.80000000000000004, 0.5) , total_acc =  0.318897914951
+
+Fold : 1 , accuracy = 0.285330502831
+Fold : 2 , accuracy = 0.344543650794
+Fold : 3 , accuracy = 0.303681457431
+Fold : 4 , accuracy = 0.238724747475
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.20000000000000001, 0.80000000000000004, 0.60000000000000009) , total_acc =  0.313860643742
+
+Fold : 1 , accuracy = 0.273517316017
+Fold : 2 , accuracy = 0.335615079365
+Fold : 3 , accuracy = 0.304772727273
+Fold : 4 , accuracy = 0.233775252525
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.20000000000000001, 0.80000000000000004, 0.70000000000000007) , total_acc =  0.308940647072
+
+Fold : 1 , accuracy = 0.260177877678
+Fold : 2 , accuracy = 0.329365079365
+Fold : 3 , accuracy = 0.3
+Fold : 4 , accuracy = 0.221008158508
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.20000000000000001, 0.80000000000000004, 0.80000000000000004) , total_acc =  0.297860204123
+
+Fold : 1 , accuracy = 0.245682373182
+Fold : 2 , accuracy = 0.314880952381
+Fold : 3 , accuracy = 0.27490981241
+Fold : 4 , accuracy = 0.212941919192
+Fold : 5 , accuracy = 0.362083238399
+param =  (0.20000000000000001, 0.80000000000000004, 0.90000000000000002) , total_acc =  0.282099659113
+
+Fold : 1 , accuracy = 0.231073787324
+Fold : 2 , accuracy = 0.289087301587
+Fold : 3 , accuracy = 0.219900793651
+Fold : 4 , accuracy = 0.191186868687
+Fold : 5 , accuracy = 0.304594820384
+param =  (0.20000000000000001, 0.80000000000000004, 1.0) , total_acc =  0.247168714327
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.25, 0.75, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.468187645688
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.335615079365
+Fold : 4 , accuracy = 0.315649350649
+Fold : 5 , accuracy = 0.42485380117
+param =  (0.25, 0.75, 0.10000000000000001) , total_acc =  0.392591334104
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.293262987013
+Fold : 5 , accuracy = 0.434210526316
+param =  (0.25, 0.75, 0.20000000000000001) , total_acc =  0.382365193286
+
+Fold : 1 , accuracy = 0.41943001443
+Fold : 2 , accuracy = 0.365361721612
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.279702380952
+Fold : 5 , accuracy = 0.425438596491
+param =  (0.25, 0.75, 0.30000000000000004) , total_acc =  0.362550034761
+
+Fold : 1 , accuracy = 0.361878121878
+Fold : 2 , accuracy = 0.353472222222
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.40730994152
+param =  (0.25, 0.75, 0.40000000000000002) , total_acc =  0.337019430862
+
+Fold : 1 , accuracy = 0.314410589411
+Fold : 2 , accuracy = 0.353472222222
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.251026334776
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.25, 0.75, 0.5) , total_acc =  0.319255057808
+
+Fold : 1 , accuracy = 0.278386058386
+Fold : 2 , accuracy = 0.344543650794
+Fold : 3 , accuracy = 0.291776695527
+Fold : 4 , accuracy = 0.242097763348
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.25, 0.75, 0.60000000000000009) , total_acc =  0.310765405647
+
+Fold : 1 , accuracy = 0.273517316017
+Fold : 2 , accuracy = 0.335615079365
+Fold : 3 , accuracy = 0.296737012987
+Fold : 4 , accuracy = 0.239330808081
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.25, 0.75, 0.70000000000000007) , total_acc =  0.308444615326
+
+Fold : 1 , accuracy = 0.256056998557
+Fold : 2 , accuracy = 0.320436507937
+Fold : 3 , accuracy = 0.305555555556
+Fold : 4 , accuracy = 0.208785936286
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.25, 0.75, 0.80000000000000004) , total_acc =  0.29391698068
+
+Fold : 1 , accuracy = 0.238463203463
+Fold : 2 , accuracy = 0.314880952381
+Fold : 3 , accuracy = 0.268849206349
+Fold : 4 , accuracy = 0.205313714064
+Fold : 5 , accuracy = 0.362668033721
+param =  (0.25, 0.75, 0.90000000000000002) , total_acc =  0.278035021996
+
+Fold : 1 , accuracy = 0.225518231768
+Fold : 2 , accuracy = 0.296031746032
+Fold : 3 , accuracy = 0.212757936508
+Fold : 4 , accuracy = 0.164058441558
+Fold : 5 , accuracy = 0.321010860485
+param =  (0.25, 0.75, 1.0) , total_acc =  0.24387544327
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.30000000000000004, 0.69999999999999996, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.468187645688
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.32371031746
+Fold : 4 , accuracy = 0.300649350649
+Fold : 5 , accuracy = 0.426701222754
+param =  (0.30000000000000004, 0.69999999999999996, 0.10000000000000001) , total_acc =  0.38757986604
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.293262987013
+Fold : 5 , accuracy = 0.434210526316
+param =  (0.30000000000000004, 0.69999999999999996, 0.20000000000000001) , total_acc =  0.382365193286
+
+Fold : 1 , accuracy = 0.41943001443
+Fold : 2 , accuracy = 0.360416666667
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.279702380952
+Fold : 5 , accuracy = 0.425438596491
+param =  (0.30000000000000004, 0.69999999999999996, 0.30000000000000004) , total_acc =  0.361561023772
+
+Fold : 1 , accuracy = 0.355223665224
+Fold : 2 , accuracy = 0.353472222222
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.40730994152
+param =  (0.30000000000000004, 0.69999999999999996, 0.40000000000000002) , total_acc =  0.334299650642
+
+Fold : 1 , accuracy = 0.314410589411
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.30000000000000004, 0.69999999999999996, 0.5) , total_acc =  0.318262994316
+
+Fold : 1 , accuracy = 0.286163836164
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.291271645022
+Fold : 4 , accuracy = 0.233169191919
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.30000000000000004, 0.69999999999999996, 0.60000000000000009) , total_acc =  0.308053284435
+
+Fold : 1 , accuracy = 0.278462370962
+Fold : 2 , accuracy = 0.32371031746
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.232664141414
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.30000000000000004, 0.69999999999999996, 0.70000000000000007) , total_acc =  0.302959600341
+
+Fold : 1 , accuracy = 0.259628427128
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.301893939394
+Fold : 4 , accuracy = 0.215035936286
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.30000000000000004, 0.69999999999999996, 0.80000000000000004) , total_acc =  0.294017990781
+
+Fold : 1 , accuracy = 0.238463203463
+Fold : 2 , accuracy = 0.32380952381
+Fold : 3 , accuracy = 0.268849206349
+Fold : 4 , accuracy = 0.188647047397
+Fold : 5 , accuracy = 0.362668033721
+param =  (0.30000000000000004, 0.69999999999999996, 0.90000000000000002) , total_acc =  0.276487402948
+
+Fold : 1 , accuracy = 0.204883311133
+Fold : 2 , accuracy = 0.304365079365
+Fold : 3 , accuracy = 0.218869047619
+Fold : 4 , accuracy = 0.162272727273
+Fold : 5 , accuracy = 0.328666362877
+param =  (0.30000000000000004, 0.69999999999999996, 1.0) , total_acc =  0.243811305653
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.35000000000000003, 0.64999999999999991, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.32371031746
+Fold : 4 , accuracy = 0.300649350649
+Fold : 5 , accuracy = 0.426701222754
+param =  (0.35000000000000003, 0.64999999999999991, 0.10000000000000001) , total_acc =  0.387360085821
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.293262987013
+Fold : 5 , accuracy = 0.434210526316
+param =  (0.35000000000000003, 0.64999999999999991, 0.20000000000000001) , total_acc =  0.382365193286
+
+Fold : 1 , accuracy = 0.41943001443
+Fold : 2 , accuracy = 0.374702380952
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.279702380952
+Fold : 5 , accuracy = 0.425438596491
+param =  (0.35000000000000003, 0.64999999999999991, 0.30000000000000004) , total_acc =  0.364418166629
+
+Fold : 1 , accuracy = 0.355223665224
+Fold : 2 , accuracy = 0.353472222222
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.40730994152
+param =  (0.35000000000000003, 0.64999999999999991, 0.40000000000000002) , total_acc =  0.334299650642
+
+Fold : 1 , accuracy = 0.314410589411
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.35000000000000003, 0.64999999999999991, 0.5) , total_acc =  0.318262994316
+
+Fold : 1 , accuracy = 0.285687645688
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.291271645022
+Fold : 4 , accuracy = 0.227613636364
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.35000000000000003, 0.64999999999999991, 0.60000000000000009) , total_acc =  0.306846935229
+
+Fold : 1 , accuracy = 0.271517926518
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.232664141414
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.35000000000000003, 0.64999999999999991, 0.70000000000000007) , total_acc =  0.299784997167
+
+Fold : 1 , accuracy = 0.259628427128
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.3
+Fold : 4 , accuracy = 0.220591491841
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.35000000000000003, 0.64999999999999991, 0.80000000000000004) , total_acc =  0.294750314013
+
+Fold : 1 , accuracy = 0.245407647908
+Fold : 2 , accuracy = 0.311904761905
+Fold : 3 , accuracy = 0.256944444444
+Fold : 4 , accuracy = 0.188647047397
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.35000000000000003, 0.64999999999999991, 0.90000000000000002) , total_acc =  0.271234687827
+
+Fold : 1 , accuracy = 0.204883311133
+Fold : 2 , accuracy = 0.29246031746
+Fold : 3 , accuracy = 0.227797619048
+Fold : 4 , accuracy = 0.17948038073
+Fold : 5 , accuracy = 0.328666362877
+param =  (0.35000000000000003, 0.64999999999999991, 1.0) , total_acc =  0.24665759825
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.40000000000000002, 0.59999999999999998, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.32371031746
+Fold : 4 , accuracy = 0.300649350649
+Fold : 5 , accuracy = 0.414169894433
+param =  (0.40000000000000002, 0.59999999999999998, 0.10000000000000001) , total_acc =  0.384853820156
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.440058479532
+param =  (0.40000000000000002, 0.59999999999999998, 0.20000000000000001) , total_acc =  0.381868117263
+
+Fold : 1 , accuracy = 0.41943001443
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.416081871345
+param =  (0.40000000000000002, 0.59999999999999998, 0.30000000000000004) , total_acc =  0.365202499255
+
+Fold : 1 , accuracy = 0.355223665224
+Fold : 2 , accuracy = 0.362797619048
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.40730994152
+param =  (0.40000000000000002, 0.59999999999999998, 0.40000000000000002) , total_acc =  0.33699806334
+
+Fold : 1 , accuracy = 0.314410589411
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.393806485912
+param =  (0.40000000000000002, 0.59999999999999998, 0.5) , total_acc =  0.319666503088
+
+Fold : 1 , accuracy = 0.285687645688
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.291271645022
+Fold : 4 , accuracy = 0.227613636364
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.40000000000000002, 0.59999999999999998, 0.60000000000000009) , total_acc =  0.306846935229
+
+Fold : 1 , accuracy = 0.271517926518
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.221553030303
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.40000000000000002, 0.59999999999999998, 0.70000000000000007) , total_acc =  0.297562774944
+
+Fold : 1 , accuracy = 0.253264790765
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.288095238095
+Fold : 4 , accuracy = 0.215035936286
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.40000000000000002, 0.59999999999999998, 0.80000000000000004) , total_acc =  0.289985523249
+
+Fold : 1 , accuracy = 0.239613997114
+Fold : 2 , accuracy = 0.311904761905
+Fold : 3 , accuracy = 0.251388888889
+Fold : 4 , accuracy = 0.194202602953
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.40000000000000002, 0.59999999999999998, 0.90000000000000002) , total_acc =  0.270075957668
+
+Fold : 1 , accuracy = 0.204645215895
+Fold : 2 , accuracy = 0.29246031746
+Fold : 3 , accuracy = 0.227797619048
+Fold : 4 , accuracy = 0.169529220779
+Fold : 5 , accuracy = 0.334514316093
+param =  (0.40000000000000002, 0.59999999999999998, 1.0) , total_acc =  0.245789337855
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.45000000000000001, 0.55000000000000004, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.32371031746
+Fold : 4 , accuracy = 0.300649350649
+Fold : 5 , accuracy = 0.410514923673
+param =  (0.45000000000000001, 0.55000000000000004, 0.10000000000000001) , total_acc =  0.384122826004
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.440058479532
+param =  (0.45000000000000001, 0.55000000000000004, 0.20000000000000001) , total_acc =  0.381868117263
+
+Fold : 1 , accuracy = 0.40943001443
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.421929824561
+param =  (0.45000000000000001, 0.55000000000000004, 0.30000000000000004) , total_acc =  0.364372089898
+
+Fold : 1 , accuracy = 0.355223665224
+Fold : 2 , accuracy = 0.362797619048
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.39791144528
+param =  (0.45000000000000001, 0.55000000000000004, 0.40000000000000002) , total_acc =  0.335118364092
+
+Fold : 1 , accuracy = 0.314410589411
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.384407989671
+param =  (0.45000000000000001, 0.55000000000000004, 0.5) , total_acc =  0.317786803839
+
+Fold : 1 , accuracy = 0.285687645688
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.285021645022
+Fold : 4 , accuracy = 0.227613636364
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.45000000000000001, 0.55000000000000004, 0.60000000000000009) , total_acc =  0.305596935229
+
+Fold : 1 , accuracy = 0.264097291597
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22198038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.45000000000000001, 0.55000000000000004, 0.70000000000000007) , total_acc =  0.296164118046
+
+Fold : 1 , accuracy = 0.247709235209
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282646520147
+Fold : 4 , accuracy = 0.215035936286
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.45000000000000001, 0.55000000000000004, 0.80000000000000004) , total_acc =  0.287784668548
+
+Fold : 1 , accuracy = 0.242947330447
+Fold : 2 , accuracy = 0.311904761905
+Fold : 3 , accuracy = 0.255662393162
+Fold : 4 , accuracy = 0.193508158508
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.45000000000000001, 0.55000000000000004, 0.90000000000000002) , total_acc =  0.271458436301
+
+Fold : 1 , accuracy = 0.204846681097
+Fold : 2 , accuracy = 0.29246031746
+Fold : 3 , accuracy = 0.227797619048
+Fold : 4 , accuracy = 0.169529220779
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.45000000000000001, 0.55000000000000004, 1.0) , total_acc =  0.247709330144
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.5, 0.5, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.32371031746
+Fold : 4 , accuracy = 0.300649350649
+Fold : 5 , accuracy = 0.410514923673
+param =  (0.5, 0.5, 0.10000000000000001) , total_acc =  0.384122826004
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.440058479532
+param =  (0.5, 0.5, 0.20000000000000001) , total_acc =  0.381868117263
+
+Fold : 1 , accuracy = 0.40943001443
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.421929824561
+param =  (0.5, 0.5, 0.30000000000000004) , total_acc =  0.364372089898
+
+Fold : 1 , accuracy = 0.349668109668
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.403759398496
+param =  (0.5, 0.5, 0.40000000000000002) , total_acc =  0.332319700767
+
+Fold : 1 , accuracy = 0.314410589411
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.384407989671
+param =  (0.5, 0.5, 0.5) , total_acc =  0.317786803839
+
+Fold : 1 , accuracy = 0.285687645688
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.285021645022
+Fold : 4 , accuracy = 0.233169191919
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.5, 0.5, 0.60000000000000009) , total_acc =  0.304661262714
+
+Fold : 1 , accuracy = 0.264097291597
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22198038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.5, 0.5, 0.70000000000000007) , total_acc =  0.296164118046
+
+Fold : 1 , accuracy = 0.247233044733
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282646520147
+Fold : 4 , accuracy = 0.20948038073
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.5, 0.5, 0.80000000000000004) , total_acc =  0.286578319341
+
+Fold : 1 , accuracy = 0.237644300144
+Fold : 2 , accuracy = 0.311904761905
+Fold : 3 , accuracy = 0.255662393162
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.5, 0.5, 0.90000000000000002) , total_acc =  0.26840759825
+
+Fold : 1 , accuracy = 0.204846681097
+Fold : 2 , accuracy = 0.29246031746
+Fold : 3 , accuracy = 0.235833333333
+Fold : 4 , accuracy = 0.169529220779
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.5, 0.5, 1.0) , total_acc =  0.249316473001
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.55000000000000004, 0.44999999999999996, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.32371031746
+Fold : 4 , accuracy = 0.300649350649
+Fold : 5 , accuracy = 0.410514923673
+param =  (0.55000000000000004, 0.44999999999999996, 0.10000000000000001) , total_acc =  0.384122826004
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.440058479532
+param =  (0.55000000000000004, 0.44999999999999996, 0.20000000000000001) , total_acc =  0.381868117263
+
+Fold : 1 , accuracy = 0.40943001443
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.322817460317
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.55000000000000004, 0.44999999999999996, 0.30000000000000004) , total_acc =  0.366418873524
+
+Fold : 1 , accuracy = 0.349668109668
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.39791144528
+param =  (0.55000000000000004, 0.44999999999999996, 0.40000000000000002) , total_acc =  0.331150110124
+
+Fold : 1 , accuracy = 0.308140748141
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.384407989671
+param =  (0.55000000000000004, 0.44999999999999996, 0.5) , total_acc =  0.316532835585
+
+Fold : 1 , accuracy = 0.287671772672
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.285021645022
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.55000000000000004, 0.44999999999999996, 0.60000000000000009) , total_acc =  0.303845966899
+
+Fold : 1 , accuracy = 0.264097291597
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22198038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.55000000000000004, 0.44999999999999996, 0.70000000000000007) , total_acc =  0.296164118046
+
+Fold : 1 , accuracy = 0.247233044733
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282646520147
+Fold : 4 , accuracy = 0.200452602953
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.55000000000000004, 0.44999999999999996, 0.80000000000000004) , total_acc =  0.284772763786
+
+Fold : 1 , accuracy = 0.237644300144
+Fold : 2 , accuracy = 0.311904761905
+Fold : 3 , accuracy = 0.255662393162
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.55000000000000004, 0.44999999999999996, 0.90000000000000002) , total_acc =  0.26840759825
+
+Fold : 1 , accuracy = 0.197902236652
+Fold : 2 , accuracy = 0.286904761905
+Fold : 3 , accuracy = 0.223760683761
+Fold : 4 , accuracy = 0.171275252525
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.55000000000000004, 0.44999999999999996, 1.0) , total_acc =  0.244751149435
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.60000000000000009, 0.39999999999999991, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.418650793651
+Fold : 3 , accuracy = 0.32371031746
+Fold : 4 , accuracy = 0.304121572872
+Fold : 5 , accuracy = 0.410514923673
+param =  (0.60000000000000009, 0.39999999999999991, 0.10000000000000001) , total_acc =  0.384817270449
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.440058479532
+param =  (0.60000000000000009, 0.39999999999999991, 0.20000000000000001) , total_acc =  0.381868117263
+
+Fold : 1 , accuracy = 0.40943001443
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.60000000000000009, 0.39999999999999991, 0.30000000000000004) , total_acc =  0.364037921143
+
+Fold : 1 , accuracy = 0.349668109668
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.39791144528
+param =  (0.60000000000000009, 0.39999999999999991, 0.40000000000000002) , total_acc =  0.331150110124
+
+Fold : 1 , accuracy = 0.308140748141
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.290577200577
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.384407989671
+param =  (0.60000000000000009, 0.39999999999999991, 0.5) , total_acc =  0.316532835585
+
+Fold : 1 , accuracy = 0.287671772672
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.285021645022
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.60000000000000009, 0.39999999999999991, 0.60000000000000009) , total_acc =  0.303845966899
+
+Fold : 1 , accuracy = 0.264097291597
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22198038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.60000000000000009, 0.39999999999999991, 0.70000000000000007) , total_acc =  0.296164118046
+
+Fold : 1 , accuracy = 0.241677489177
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282646520147
+Fold : 4 , accuracy = 0.200452602953
+Fold : 5 , accuracy = 0.378749905066
+param =  (0.60000000000000009, 0.39999999999999991, 0.80000000000000004) , total_acc =  0.283661652675
+
+Fold : 1 , accuracy = 0.228715728716
+Fold : 2 , accuracy = 0.311904761905
+Fold : 3 , accuracy = 0.257051282051
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.60000000000000009, 0.39999999999999991, 0.90000000000000002) , total_acc =  0.266899661742
+
+Fold : 1 , accuracy = 0.200151168276
+Fold : 2 , accuracy = 0.286904761905
+Fold : 3 , accuracy = 0.21764957265
+Fold : 4 , accuracy = 0.164330808081
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.60000000000000009, 0.39999999999999991, 1.0) , total_acc =  0.242589824649
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.65000000000000002, 0.34999999999999998, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.425468975469
+Fold : 3 , accuracy = 0.317043650794
+Fold : 4 , accuracy = 0.304121572872
+Fold : 5 , accuracy = 0.410514923673
+param =  (0.65000000000000002, 0.34999999999999998, 0.10000000000000001) , total_acc =  0.384847573479
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.276596320346
+Fold : 5 , accuracy = 0.440058479532
+param =  (0.65000000000000002, 0.34999999999999998, 0.20000000000000001) , total_acc =  0.380201450596
+
+Fold : 1 , accuracy = 0.40943001443
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.65000000000000002, 0.34999999999999998, 0.30000000000000004) , total_acc =  0.364037921143
+
+Fold : 1 , accuracy = 0.349668109668
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.408145363409
+param =  (0.65000000000000002, 0.34999999999999998, 0.40000000000000002) , total_acc =  0.33319689375
+
+Fold : 1 , accuracy = 0.308140748141
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.400489861016
+param =  (0.65000000000000002, 0.34999999999999998, 0.5) , total_acc =  0.321138098743
+
+Fold : 1 , accuracy = 0.291005106005
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.285021645022
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.65000000000000002, 0.34999999999999998, 0.60000000000000009) , total_acc =  0.304512633565
+
+Fold : 1 , accuracy = 0.264097291597
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.227535936286
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.65000000000000002, 0.34999999999999998, 0.70000000000000007) , total_acc =  0.297275229157
+
+Fold : 1 , accuracy = 0.241677489177
+Fold : 2 , accuracy = 0.309226190476
+Fold : 3 , accuracy = 0.274610805861
+Fold : 4 , accuracy = 0.207397047397
+Fold : 5 , accuracy = 0.369977975241
+param =  (0.65000000000000002, 0.34999999999999998, 0.80000000000000004) , total_acc =  0.280577901631
+
+Fold : 1 , accuracy = 0.228715728716
+Fold : 2 , accuracy = 0.311904761905
+Fold : 3 , accuracy = 0.257051282051
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.65000000000000002, 0.34999999999999998, 0.90000000000000002) , total_acc =  0.266899661742
+
+Fold : 1 , accuracy = 0.200151168276
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.209613858364
+Fold : 4 , accuracy = 0.164330808081
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.65000000000000002, 0.34999999999999998, 1.0) , total_acc =  0.242371570681
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.70000000000000007, 0.29999999999999993, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.425468975469
+Fold : 3 , accuracy = 0.317043650794
+Fold : 4 , accuracy = 0.309677128427
+Fold : 5 , accuracy = 0.410514923673
+param =  (0.70000000000000007, 0.29999999999999993, 0.10000000000000001) , total_acc =  0.38595868459
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.43776106934
+param =  (0.70000000000000007, 0.29999999999999993, 0.20000000000000001) , total_acc =  0.381408635224
+
+Fold : 1 , accuracy = 0.400046897547
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.70000000000000007, 0.29999999999999993, 0.30000000000000004) , total_acc =  0.362161297767
+
+Fold : 1 , accuracy = 0.349668109668
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.408145363409
+param =  (0.70000000000000007, 0.29999999999999993, 0.40000000000000002) , total_acc =  0.33319689375
+
+Fold : 1 , accuracy = 0.315085192585
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.400489861016
+param =  (0.70000000000000007, 0.29999999999999993, 0.5) , total_acc =  0.322526987632
+
+Fold : 1 , accuracy = 0.291005106005
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.285021645022
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.70000000000000007, 0.29999999999999993, 0.60000000000000009) , total_acc =  0.304512633565
+
+Fold : 1 , accuracy = 0.267430624931
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.227535936286
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.70000000000000007, 0.29999999999999993, 0.70000000000000007) , total_acc =  0.297941895823
+
+Fold : 1 , accuracy = 0.241677489177
+Fold : 2 , accuracy = 0.309226190476
+Fold : 3 , accuracy = 0.274610805861
+Fold : 4 , accuracy = 0.207397047397
+Fold : 5 , accuracy = 0.360579479001
+param =  (0.70000000000000007, 0.29999999999999993, 0.80000000000000004) , total_acc =  0.278698202382
+
+Fold : 1 , accuracy = 0.228715728716
+Fold : 2 , accuracy = 0.311904761905
+Fold : 3 , accuracy = 0.262606837607
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.70000000000000007, 0.29999999999999993, 0.90000000000000002) , total_acc =  0.268010772853
+
+Fold : 1 , accuracy = 0.191222596848
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.195724969475
+Fold : 4 , accuracy = 0.166810966811
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.70000000000000007, 0.29999999999999993, 1.0) , total_acc =  0.238304110363
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.75, 0.25, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.425468975469
+Fold : 3 , accuracy = 0.317043650794
+Fold : 4 , accuracy = 0.309677128427
+Fold : 5 , accuracy = 0.410514923673
+param =  (0.75, 0.25, 0.10000000000000001) , total_acc =  0.38595868459
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.43776106934
+param =  (0.75, 0.25, 0.20000000000000001) , total_acc =  0.381408635224
+
+Fold : 1 , accuracy = 0.400046897547
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.75, 0.25, 0.30000000000000004) , total_acc =  0.362161297767
+
+Fold : 1 , accuracy = 0.349668109668
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.408145363409
+param =  (0.75, 0.25, 0.40000000000000002) , total_acc =  0.33319689375
+
+Fold : 1 , accuracy = 0.315085192585
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.400489861016
+param =  (0.75, 0.25, 0.5) , total_acc =  0.322526987632
+
+Fold : 1 , accuracy = 0.291005106005
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.289188311688
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.75, 0.25, 0.60000000000000009) , total_acc =  0.305345966899
+
+Fold : 1 , accuracy = 0.267430624931
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22823038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.75, 0.25, 0.70000000000000007) , total_acc =  0.298080784712
+
+Fold : 1 , accuracy = 0.241260822511
+Fold : 2 , accuracy = 0.309226190476
+Fold : 3 , accuracy = 0.274610805861
+Fold : 4 , accuracy = 0.207397047397
+Fold : 5 , accuracy = 0.360579479001
+param =  (0.75, 0.25, 0.80000000000000004) , total_acc =  0.278614869049
+
+Fold : 1 , accuracy = 0.228715728716
+Fold : 2 , accuracy = 0.306349206349
+Fold : 3 , accuracy = 0.262606837607
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.75, 0.25, 0.90000000000000002) , total_acc =  0.266899661742
+
+Fold : 1 , accuracy = 0.191222596848
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.195724969475
+Fold : 4 , accuracy = 0.166810966811
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.75, 0.25, 1.0) , total_acc =  0.238304110363
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.80000000000000004, 0.19999999999999996, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.425468975469
+Fold : 3 , accuracy = 0.317043650794
+Fold : 4 , accuracy = 0.309677128427
+Fold : 5 , accuracy = 0.420748841801
+param =  (0.80000000000000004, 0.19999999999999996, 0.10000000000000001) , total_acc =  0.388005468216
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.43776106934
+param =  (0.80000000000000004, 0.19999999999999996, 0.20000000000000001) , total_acc =  0.381408635224
+
+Fold : 1 , accuracy = 0.400046897547
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.80000000000000004, 0.19999999999999996, 0.30000000000000004) , total_acc =  0.362161297767
+
+Fold : 1 , accuracy = 0.349668109668
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.408145363409
+param =  (0.80000000000000004, 0.19999999999999996, 0.40000000000000002) , total_acc =  0.33319689375
+
+Fold : 1 , accuracy = 0.315085192585
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.400489861016
+param =  (0.80000000000000004, 0.19999999999999996, 0.5) , total_acc =  0.322526987632
+
+Fold : 1 , accuracy = 0.291005106005
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.289188311688
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.80000000000000004, 0.19999999999999996, 0.60000000000000009) , total_acc =  0.305345966899
+
+Fold : 1 , accuracy = 0.267430624931
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22823038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.80000000000000004, 0.19999999999999996, 0.70000000000000007) , total_acc =  0.298080784712
+
+Fold : 1 , accuracy = 0.241260822511
+Fold : 2 , accuracy = 0.309226190476
+Fold : 3 , accuracy = 0.274610805861
+Fold : 4 , accuracy = 0.207397047397
+Fold : 5 , accuracy = 0.360579479001
+param =  (0.80000000000000004, 0.19999999999999996, 0.80000000000000004) , total_acc =  0.278614869049
+
+Fold : 1 , accuracy = 0.22443001443
+Fold : 2 , accuracy = 0.306349206349
+Fold : 3 , accuracy = 0.257051282051
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.80000000000000004, 0.19999999999999996, 0.90000000000000002) , total_acc =  0.264931407774
+
+Fold : 1 , accuracy = 0.194347596848
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.195724969475
+Fold : 4 , accuracy = 0.163477633478
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.80000000000000004, 0.19999999999999996, 1.0) , total_acc =  0.238262443697
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.85000000000000009, 0.14999999999999991, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.413564213564
+Fold : 3 , accuracy = 0.317043650794
+Fold : 4 , accuracy = 0.309677128427
+Fold : 5 , accuracy = 0.420748841801
+param =  (0.85000000000000009, 0.14999999999999991, 0.10000000000000001) , total_acc =  0.385624515835
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.43776106934
+param =  (0.85000000000000009, 0.14999999999999991, 0.20000000000000001) , total_acc =  0.381408635224
+
+Fold : 1 , accuracy = 0.400046897547
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.85000000000000009, 0.14999999999999991, 0.30000000000000004) , total_acc =  0.362161297767
+
+Fold : 1 , accuracy = 0.356612554113
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.408145363409
+param =  (0.85000000000000009, 0.14999999999999991, 0.40000000000000002) , total_acc =  0.334585782638
+
+Fold : 1 , accuracy = 0.315085192585
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.400489861016
+param =  (0.85000000000000009, 0.14999999999999991, 0.5) , total_acc =  0.322526987632
+
+Fold : 1 , accuracy = 0.291005106005
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.289188311688
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.386788942052
+param =  (0.85000000000000009, 0.14999999999999991, 0.60000000000000009) , total_acc =  0.305345966899
+
+Fold : 1 , accuracy = 0.267430624931
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22823038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.85000000000000009, 0.14999999999999991, 0.70000000000000007) , total_acc =  0.298080784712
+
+Fold : 1 , accuracy = 0.241260822511
+Fold : 2 , accuracy = 0.309226190476
+Fold : 3 , accuracy = 0.274610805861
+Fold : 4 , accuracy = 0.212952602953
+Fold : 5 , accuracy = 0.360579479001
+param =  (0.85000000000000009, 0.14999999999999991, 0.80000000000000004) , total_acc =  0.27972598016
+
+Fold : 1 , accuracy = 0.22443001443
+Fold : 2 , accuracy = 0.306349206349
+Fold : 3 , accuracy = 0.257051282051
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.85000000000000009, 0.14999999999999991, 0.90000000000000002) , total_acc =  0.264931407774
+
+Fold : 1 , accuracy = 0.194347596848
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.195724969475
+Fold : 4 , accuracy = 0.163477633478
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.85000000000000009, 0.14999999999999991, 1.0) , total_acc =  0.238262443697
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.90000000000000002, 0.099999999999999978, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.413564213564
+Fold : 3 , accuracy = 0.317043650794
+Fold : 4 , accuracy = 0.309677128427
+Fold : 5 , accuracy = 0.420748841801
+param =  (0.90000000000000002, 0.099999999999999978, 0.10000000000000001) , total_acc =  0.385624515835
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.406746031746
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.43776106934
+param =  (0.90000000000000002, 0.099999999999999978, 0.20000000000000001) , total_acc =  0.381408635224
+
+Fold : 1 , accuracy = 0.400046897547
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.90000000000000002, 0.099999999999999978, 0.30000000000000004) , total_acc =  0.362161297767
+
+Fold : 1 , accuracy = 0.356612554113
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.408145363409
+param =  (0.90000000000000002, 0.099999999999999978, 0.40000000000000002) , total_acc =  0.334585782638
+
+Fold : 1 , accuracy = 0.315085192585
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.400489861016
+param =  (0.90000000000000002, 0.099999999999999978, 0.5) , total_acc =  0.322526987632
+
+Fold : 1 , accuracy = 0.291005106005
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.289188311688
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.392636895268
+param =  (0.90000000000000002, 0.099999999999999978, 0.60000000000000009) , total_acc =  0.306515557542
+
+Fold : 1 , accuracy = 0.267430624931
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22823038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.90000000000000002, 0.099999999999999978, 0.70000000000000007) , total_acc =  0.298080784712
+
+Fold : 1 , accuracy = 0.241260822511
+Fold : 2 , accuracy = 0.309226190476
+Fold : 3 , accuracy = 0.274610805861
+Fold : 4 , accuracy = 0.212952602953
+Fold : 5 , accuracy = 0.360579479001
+param =  (0.90000000000000002, 0.099999999999999978, 0.80000000000000004) , total_acc =  0.27972598016
+
+Fold : 1 , accuracy = 0.22443001443
+Fold : 2 , accuracy = 0.306349206349
+Fold : 3 , accuracy = 0.257051282051
+Fold : 4 , accuracy = 0.183556998557
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.90000000000000002, 0.099999999999999978, 0.90000000000000002) , total_acc =  0.264931407774
+
+Fold : 1 , accuracy = 0.194347596848
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.201836080586
+Fold : 4 , accuracy = 0.163477633478
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.90000000000000002, 0.099999999999999978, 1.0) , total_acc =  0.239484665919
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (0.95000000000000007, 0.049999999999999933, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.413564213564
+Fold : 3 , accuracy = 0.317043650794
+Fold : 4 , accuracy = 0.309677128427
+Fold : 5 , accuracy = 0.420748841801
+param =  (0.95000000000000007, 0.049999999999999933, 0.10000000000000001) , total_acc =  0.385624515835
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.421031746032
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.43776106934
+param =  (0.95000000000000007, 0.049999999999999933, 0.20000000000000001) , total_acc =  0.384265778082
+
+Fold : 1 , accuracy = 0.400046897547
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (0.95000000000000007, 0.049999999999999933, 0.30000000000000004) , total_acc =  0.362161297767
+
+Fold : 1 , accuracy = 0.356612554113
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.408145363409
+param =  (0.95000000000000007, 0.049999999999999933, 0.40000000000000002) , total_acc =  0.334585782638
+
+Fold : 1 , accuracy = 0.315085192585
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.400489861016
+param =  (0.95000000000000007, 0.049999999999999933, 0.5) , total_acc =  0.322526987632
+
+Fold : 1 , accuracy = 0.291005106005
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.289188311688
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.392636895268
+param =  (0.95000000000000007, 0.049999999999999933, 0.60000000000000009) , total_acc =  0.306515557542
+
+Fold : 1 , accuracy = 0.261875069375
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22823038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (0.95000000000000007, 0.049999999999999933, 0.70000000000000007) , total_acc =  0.296969673601
+
+Fold : 1 , accuracy = 0.241260822511
+Fold : 2 , accuracy = 0.309226190476
+Fold : 3 , accuracy = 0.274610805861
+Fold : 4 , accuracy = 0.212952602953
+Fold : 5 , accuracy = 0.360579479001
+param =  (0.95000000000000007, 0.049999999999999933, 0.80000000000000004) , total_acc =  0.27972598016
+
+Fold : 1 , accuracy = 0.22443001443
+Fold : 2 , accuracy = 0.306349206349
+Fold : 3 , accuracy = 0.257051282051
+Fold : 4 , accuracy = 0.189112554113
+Fold : 5 , accuracy = 0.35326953748
+param =  (0.95000000000000007, 0.049999999999999933, 0.90000000000000002) , total_acc =  0.266042518885
+
+Fold : 1 , accuracy = 0.185419025419
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.201836080586
+Fold : 4 , accuracy = 0.163477633478
+Fold : 5 , accuracy = 0.343912812334
+param =  (0.95000000000000007, 0.049999999999999933, 1.0) , total_acc =  0.237698951633
+
+Fold : 1 , accuracy = 0.467406204906
+Fold : 2 , accuracy = 0.351388888889
+Fold : 3 , accuracy = 0.319841269841
+Fold : 4 , accuracy = 0.328327922078
+Fold : 5 , accuracy = 0.441216678059
+param =  (1.0, 0.0, 0.0) , total_acc =  0.381636192755
+
+Fold : 1 , accuracy = 0.467088744589
+Fold : 2 , accuracy = 0.413564213564
+Fold : 3 , accuracy = 0.317043650794
+Fold : 4 , accuracy = 0.309677128427
+Fold : 5 , accuracy = 0.420748841801
+param =  (1.0, 0.0, 0.10000000000000001) , total_acc =  0.385624515835
+
+Fold : 1 , accuracy = 0.461038961039
+Fold : 2 , accuracy = 0.421031746032
+Fold : 3 , accuracy = 0.316567460317
+Fold : 4 , accuracy = 0.28492965368
+Fold : 5 , accuracy = 0.43776106934
+param =  (1.0, 0.0, 0.20000000000000001) , total_acc =  0.384265778082
+
+Fold : 1 , accuracy = 0.400046897547
+Fold : 2 , accuracy = 0.379647435897
+Fold : 3 , accuracy = 0.310912698413
+Fold : 4 , accuracy = 0.288035714286
+Fold : 5 , accuracy = 0.43216374269
+param =  (1.0, 0.0, 0.30000000000000004) , total_acc =  0.362161297767
+
+Fold : 1 , accuracy = 0.356612554113
+Fold : 2 , accuracy = 0.348511904762
+Fold : 3 , accuracy = 0.294743867244
+Fold : 4 , accuracy = 0.264915223665
+Fold : 5 , accuracy = 0.408145363409
+param =  (1.0, 0.0, 0.40000000000000002) , total_acc =  0.334585782638
+
+Fold : 1 , accuracy = 0.315085192585
+Fold : 2 , accuracy = 0.341567460317
+Fold : 3 , accuracy = 0.297521645022
+Fold : 4 , accuracy = 0.257970779221
+Fold : 5 , accuracy = 0.400489861016
+param =  (1.0, 0.0, 0.5) , total_acc =  0.322526987632
+
+Fold : 1 , accuracy = 0.291005106005
+Fold : 2 , accuracy = 0.332638888889
+Fold : 3 , accuracy = 0.289188311688
+Fold : 4 , accuracy = 0.227108585859
+Fold : 5 , accuracy = 0.392636895268
+param =  (1.0, 0.0, 0.60000000000000009) , total_acc =  0.306515557542
+
+Fold : 1 , accuracy = 0.261875069375
+Fold : 2 , accuracy = 0.314781746032
+Fold : 3 , accuracy = 0.282938311688
+Fold : 4 , accuracy = 0.22823038073
+Fold : 5 , accuracy = 0.397022860181
+param =  (1.0, 0.0, 0.70000000000000007) , total_acc =  0.296969673601
+
+Fold : 1 , accuracy = 0.241260822511
+Fold : 2 , accuracy = 0.309226190476
+Fold : 3 , accuracy = 0.269156260406
+Fold : 4 , accuracy = 0.212952602953
+Fold : 5 , accuracy = 0.360579479001
+param =  (1.0, 0.0, 0.80000000000000004) , total_acc =  0.278635071069
+
+Fold : 1 , accuracy = 0.22443001443
+Fold : 2 , accuracy = 0.306349206349
+Fold : 3 , accuracy = 0.257051282051
+Fold : 4 , accuracy = 0.189112554113
+Fold : 5 , accuracy = 0.35326953748
+param =  (1.0, 0.0, 0.90000000000000002) , total_acc =  0.266042518885
+
+Fold : 1 , accuracy = 0.185419025419
+Fold : 2 , accuracy = 0.293849206349
+Fold : 3 , accuracy = 0.208780525031
+Fold : 4 , accuracy = 0.163477633478
+Fold : 5 , accuracy = 0.343912812334
+param =  (1.0, 0.0, 1.0) , total_acc =  0.239087840522
+
+== Params with max accuracy ==
+loc_ratio = 0.1
+int_ratio = 0.9
+sigma = 0.1
+
+Max accuracy =  0.394150384703

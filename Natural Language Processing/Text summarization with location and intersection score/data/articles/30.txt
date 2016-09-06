@@ -1,0 +1,15 @@
+Facebook CTO Mike Schroepfer took a selfie in virtual reality today during the F8 keynote presentation.
+
+Facebook's mission is to connect the world, so it only makes sense that all of its products are going to have a social element. Today, during the keynotes of Facebook's developer conference F8, the company's CTO Mike Schroepfer jumped into an Oculus Rift VR headset and interacted with another Facebook employee back on their campus. Oculus is owned by Facebook, and recently launched to consumers late last month.
+
+The two were able to hang out in cyberspace because of a coming functionality to Oculus Rift called "Social Virtual." While we don't know exactly how Oculus is going to put this into the software, the demo today tells us a lot about the capabilities of the platform.
+
+Schroepfer donned the Oculus and found himself a faceless avatar in a virtual world. He could see the other Facebooker, who had a few facial features and disembodied hands to interact with the environment around him. Using the Oculus Touch controllers, the two were able to interact with objects in the virtual space like markers to draw accessories for each other's avatars, and even a virtual selfie stick for taking a picture within 360-degree video.
+
+The tech allows you to go into places like the hangar where Facebook's laser internet drone Aquila is being stored, and experience them together. These types of experiences showcase a use of VR rarely utilized so far: interacting with other real people. Facebook has previously said that social features were coming to Oculus and Gear VR, so it's nice to finally see some new ones in action.
+
+And interaction points to Facebook's larger strategy for virtual reality. Uses for VR, up until now, have largely aligned with experiencing video games solo. Applications like Altspace VR offer the ability to meet up with friends that also own virtual reality headsets, but few apps of this nature exist. The $2 billion Facebook spent on Oculus may be due to the Rift's gaming prowess, but more likely points to how Zuckerberg and the rest Facebook envision VR's usefulness. The addition of the social virtual initiative adds a meaningful layer to entering the virtual world that few apps have integrated. If done right, social virtual could extend VR beyond personal, one-person experiences, to activities more easily done with friends.
+
+And with selfies all the rage these days, including many being posted to Facebook and its photo-sharing app Instagram, it's no surprise that Oculus would want to offer the ability to take selfies and replicate other shared experiences in VR.
+
+Check back with PopSci for more F8 2016 updates.

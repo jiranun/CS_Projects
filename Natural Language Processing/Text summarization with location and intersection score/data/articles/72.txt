@@ -1,0 +1,23 @@
+The first commercial test for Zika virus has received emergency use authorization by the U.S. Food and Drug Administration.
+
+According to the test's developers, Quest Diagnostics, the newly approved diagnostic tool will become available to physicians in the United States and Puerto Rico as early as next week. Puerto Rico is considered to be among the most affected areas, compared to the rest of the United States, with potential for hundreds more infections.
+Currently, people who suspect they are infected with the virus can only be tested through a network of laboratories approved by the U.S. Centers for Disease Control and Prevention. The current process requires a visit to physicians who must then go through the health department to get samples tested. Results can take up to three weeks and some people in the United States have reported challenges in getting tested, despite meeting the testing criteria.
+This new authorization is hoped to increase capacity for testing in the United States as well as shorten the time taken to receive a diagnosis.
+"The availability of our new molecular Zika test provides physicians broad access to a diagnostic tool for managing the Zika outbreak," Rick L. Pesano, vice president of research and development at Quest Diagnostics, said in a statement released Thursday.
+How the test works
+The commercial test uses a process known as real-time RT-PCR to test for the presence of Zika virus in blood samples. This means it can only detect the virus when it is still present in blood. A negative test, therefore, does not conclude that the virus isn't still in the body.
+CDC screens nearly 5,000 travelers for Zika, less than 200 test positive
+Zika virus: CDC screens nearly 5,000 travelers
+Additional tests -- including those that look for the presence of antibodies against the virus, known as serological tests -- can further clarify this, and are currently available through the CDC. Quest plan to offer such tests services in the future, if further emergency use is approved.
+Samples for the currently approved diagnostic by Quest will be analyzed by trained personnel in laboratories run by Quest's subsidiary, Focus Diagnostics Inc. All cases of Zika must continue to be reported to the CDC for surveillance purposes.
+How useful will it be?
+Zika virus definitely causes birth defects, CDC says
+CDC: Zika virus causes birth defects, microcephaly
+The CDC recommends testing for anyone with symptoms of Zika infection who has traveled to an area with transmission within the past two weeks, as well as any pregnant women who have lived or visited affected regions. Testing is also recommended for males who have lived in, or visited, an affected region, in case of any sexual transmission of the virus. Infants born to mothers who lived or traveled to transmission areas during their pregnancy should also be tested.
+The CDC recently confirmed that Zika virus infections in pregnant women can cause microcephaly and other birth defects, further increasing the need for improved testing capacity.
+"As the period (in) which the virus is present in the bloodstream, is transient, access to testing via the CDC network may not be possible for frontline physicians," said Rosanna Peeling, professor and chairwoman of diagnostics research at the London School of Hygiene & Tropical Medicine.
+Join the conversation
+See the latest news and share your comments with CNN Health on Facebook and Twitter.
+
+Peeling has seen challenges in diagnosis, particularly due to the presence of dengue and other viruses in the same family, within transmission regions.
+"Having a US FDA approved test that is commercially available will not only improve access to diagnosis, but will provide a useful tool for broadening our understanding of the infectivity and transmission dynamics of Zika virus infection," she said.

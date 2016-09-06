@@ -1,0 +1,14 @@
+Now that drones have become a standard tool in our military arsenal, the next job is to make them more efficient and capable than ever before. DARPA's newest invention is the Gremlin: a drone that be deployed from a bomber while in flight, execute its mission, and then return to an extraction point where a cargo plane yanks it out of the sky and brings it safely home.
+
+The drones are capable of flying unmanned, but being able to retrieve them makes them reusable, which is both cost-effective and convenient. But drone retrieval also protects U.S. military technology and secrets. Sending fleets of tiny Gremlins on intelligence-gathering missions is one thing, but being able to recapture them instead of leaving them in the hands of hostiles is a huge boon to the military. Gremlin drones have up to three hours to accomplish reconnaissance missions, at which time they automatically fly back to a retrieval area to be collected by a C-130 cargo plane.
+
+Related: DARPA's 130-foot submarine-hunting drone will take to the sea in April
+
+There are already drones that can execute missions and fly back to a "mothership," but being able to deploy from one carrier and return to another is a new accomplishment. "If launch and recovery from airborne platforms were possible, it could significantly extend the range and effectiveness of small unmanned systems, and enable volley-quantity UAV employment," said DARPA Tactical Technology Office program manager, Dan Patt.
+
+Volley-quantity UAV employment is otherwise known as a swarm of drones. The concept of safety in numbers is popular with military drone deployment, since if any of the drones crash, get shot down, or malfunction in any way, there's still a whole fleet prepared to carry out the mission. Gremlins are going to be intentionally small, but there's no official word yet on the final design.
+
+Each Gremlin will be equipped with cameras, sensors, and other electronic capabilities that could be customized to any specific mission. Of course, each Gremlin unit will also need to be able to communicate with each other in order to coordinate the fleet, and will need to transmit data through military satellites in order to deliver the intelligence collected during the mission.
+
+After an open call for submissions, DARPA has announced four short-listed teams that have gotten the green light to further develop their Gremlin technology proposals. Rounds of development and evaluation will weed out the competition until DARPA officials choose the final Germlin winner by 2020.
+

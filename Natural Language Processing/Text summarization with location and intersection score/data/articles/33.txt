@@ -1,0 +1,13 @@
+Facebook CEO Mark Zuckerberg took the stage today at F8 2016 in California to announce many updates to its social network. The company started by relaying Facebook's 10-year plan across all its properties from Instagram to WhatsApp to even Oculus. The service's chat application, Messenger, received a new feature labeled Chatbots.
+
+Similar to WeChat's pervasive integration with various apps or calling cabs from within Slack, Facebook wants Messenger to be the de-facto way for its users to do everything. We saw a glimpse of this when Facebook added requesting Uber cabs to its Messenger app. Now Messenger will support CNN and 1-800-Flowers.
+
+The CNN news app allows users to see updates from the site within Facebook's chat platform. Messenger users can read the story, simply get a summary or tap Ask CNN for more details. 1-800-Flowers functionality allows users of Messenger to browse and purchase plants from within Messenger. Likely giving Facebook users less of a reason to leave the company's platform.
+
+Those who have downloaded Messenger can also access weather from within the app via Poncho. Similar to the Poncho app, Facebook users can expect natural language from the app as they get weather data via chat bubbles. With a new always-present search bar at the top of the app, you will be able to search for people as well as bots to chat with.
+
+Facebook's Messenger will see bots from Burger King, Disney, eBay, and more. The JetBlue bot, for example, will help travelers see their flight itinerary. According to Facebook, the company will leverage its M artificial intelligence platform to help with using natural language alongside bots.
+
+Facebook's ambitious keynote of detailing its 10 year plan for the company brought updates across all of Facebook's products, not just Messenger. The highest-used social network discussed plans to bring the rest of the world online, ideas for VR and AR of the future with Oculus and a simple sign-in system with what Facebook calls Account Kit. While no specific plans were mentioned, we could see Facebook take on Microsoft's HoloLens in the coming future.
+
+Stay tuned to PopSci for updates from the F8 2016 showfloor.

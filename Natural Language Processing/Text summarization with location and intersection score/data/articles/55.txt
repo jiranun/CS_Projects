@@ -1,0 +1,17 @@
+Drifting down into the gloomy depths, the diver barely paused before entering a wreck that lay undisturbed for three and a half centuries.
+
+The underwater traveler maneuvered slowly but determinedly, honed in on an ancient artifact, gently picked it up and deposited it in a sample bag.
+The recovery of a small vase from the wreck of La Lune, once Louis XIV's flagship, marked a significant step in man's discovery of the oceans.
+The diver in question, a plucky orange-and-white humanoid robot called OceanOne, had successfully completed its maiden voyage. It navigated the wreck that lay out of reach of conventional divers since sinking in waters 32 km (20 miles) off the French city of Toulon in November 1664, taking with it a thousand souls.
+Aboard a surface support vessel, Oussama Khatib, a Stanford computer science professor, exchanged gleeful high-fives with his students, the Stanford News reports.
+Mermaid-like divebot
+He'd been controlling OceanOne from the safety of the boat, allowing it to feel its way through the hazards inherent in any shipwreck, using its twin cameras -- mounted in its head, just like a pair of human eyes -- and its delicate haptic-feedback hands mounted on fully articulated arms and wrists.
+At the other end of the five-meter-long robot, a complex array of thrusters, and its computer brain, are housed. Sensors enable it to maintain a steady position, no matter the current.
+It got briefly stuck in the wreck, but its pilot 90 meters above it used its arms to heave it forward, freeing it to carry on with its mission.
+It's a breakthrough, Khatib says, and marks the beginning of an age where this underwater proxy can undertake the gritty, dangerous, tiring or just plain repetitive tasks that can test the limits of a human diver's endurance.
+It will mean that searches at depth, or underwater work on, say, oil rigs, is not limited by the time divers can stay down or how deep humans can go -- around 40 meters (130 m) for recreational divers.
+Out of depth
+"OceanOne will be your avatar," Khatib tells the paper. "The intent here is to have a human diving virtually, to put the human out of harm's way. Having a machine that has human characteristics that can project the human diver's embodiment at depth is going to be amazing."
+It's a remarkable piece of gear. Its hands are covered with sensors that relay the sensation of touch to the remote pilot, and its brain is able to figure out how sturdy or fragile anything it encounters is. It was developed originally to study coral reefs in the Red Sea, meaning a light touch was essential.
+"You can feel exactly what the robot is doing," Khatib says. "It's almost like you are there; with the sense of touch you create a new dimension of perception."
+After a successful trip below the waves of France's southeast coast, the diver will return to California where Khatib and his team will continue to develop it -- with the aim of developing a whole team of oceangoing bots that can work silently in concert, going where no human could swim.
